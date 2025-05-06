@@ -9,3 +9,15 @@ footer{
 hr{
     background-color: black;
 }
+
+.odd{
+    color:grey;
+}
+
+.even{
+    color:cadetblue;
+}
+
+#greeting{
+    color:blueviolet;
+}
