@@ -12,12 +12,18 @@ hr{
 
 .odd{
     color:grey;
+    font-family: "lucida console", "courier new";
 }
 
 .even{
     color:cadetblue;
+    font-family: georgia, cambria;
 }
 
 #greeting{
     color:blueviolet;
+}
+
+#name{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
