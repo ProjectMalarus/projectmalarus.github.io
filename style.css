@@ -23,17 +23,22 @@ hr{
 .odd{
     color:grey;
     font-family: Ubuntu-Regular;
+    border: 3px solid grey;
+    border-radius: 10px;
 }
 
 .even{
     color:cadetblue;
     font-family: Ubuntu-Regular;
+    border: 3px solid cadetblue;
+    border-radius: 10px;
 }
 
 #greeting{
     color:blueviolet;
     font-family: FiraSans-Regular;
-    
+    border: 3px solid blueviolet;
+    border-radius: 15px;
 }
 
 #name{
