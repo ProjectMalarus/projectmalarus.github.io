@@ -10,18 +10,30 @@ hr{
     background-color: black;
 }
 
+@font-face{
+    src: url(fonts/Ubuntu-Regular.ttf);
+    font-family: Ubuntu-Regular;
+}
+
+@font-face{
+    src: url(fonts/FiraSans-Regular.ttf);
+    font-family: FiraSans-Regular;
+}
+
 .odd{
     color:grey;
-    font-family: "lucida console", "courier new";
+    font-family: Ubuntu-Regular;
 }
 
 .even{
     color:cadetblue;
-    font-family: georgia, cambria;
+    font-family: Ubuntu-Regular;
 }
 
 #greeting{
     color:blueviolet;
+    font-family: FiraSans-Regular;
+    
 }
 
 #name{
